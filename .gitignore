@@ -18,3 +18,7 @@ project/project/
 benchData/
 _site/
 tut-out/
+.bloop
+.metals
+.bsp
+metals.sbt
